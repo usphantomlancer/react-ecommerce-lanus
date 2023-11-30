@@ -1,4 +1,4 @@
-# Lanus Tech - _A simple React.js e-commerce project_
+# Lanus Tech - Simple React Ecommerce Web App
 
 ### What to expect from this project?
 
@@ -19,12 +19,6 @@
 | Animate.css v4     | Animations    |
 | Firebase v9.6.10   | Database      |
 
----
-
 ### Demo
 
-[LanusTech](https://lanustech.vercel.app/)
-
----
-
-<div style="text-align:center"><img src="https://seeklogo.com/images/L/Lanus-logo-09E57DE215-seeklogo.com.png" /></div>
+<div style="text-align:center"><img src="./src/assets/image.png" /></div>
